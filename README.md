@@ -4,7 +4,7 @@ Classifying 15 plant leaf diseases from images by comparing four pretrained CNNs
 
 **Best model: MobileNet, 93.8% validation accuracy and 93.9% F1-score**, while also being the lightest and fastest of the four.
 
-![Model comparison](images/model_comparison.png)
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/5b7441e8-cad7-4c9b-b0e4-a7b80c56d158" />
 
 ## Overview
 
